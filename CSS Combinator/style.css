@@ -1,0 +1,13 @@
+/*CSS combinator  */
+/* space, >, ~, + */
+
+/*.container p{
+    color: yellow;
+}*/
+/*.container >.inside-container p{ 
+    color: yellow;
+} Decending combinator  */
+
+ul + p{
+    color: red;
+}

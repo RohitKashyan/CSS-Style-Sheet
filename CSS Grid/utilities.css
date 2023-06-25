@@ -1,0 +1,20 @@
+:root{
+    --backgroundcolor:#111;
+    --textcolor :#fff;
+    --fontfamily: sans-serif;
+}
+
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:var(--backgroundcolor);
+    color: var(--textcolor);
+    font-family: var(--fontfamily);
+}
+.grid-item{
+    padding: 20px 30px;
+    background: rgb(0, 139, 102);
+    border: solid 2px var(--textcolor);
+}
