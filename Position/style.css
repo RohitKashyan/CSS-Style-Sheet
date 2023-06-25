@@ -1,0 +1,14 @@
+div{
+    background-color: olive;
+    top: 20px;
+    height: 70px;
+    width: 150px;
+    margin: 10px;
+}
+.item{
+    background-color: aquamarine;
+    top: 2px;
+    bottom: 10px;
+    position: relative;
+    right: 10px;
+}
